@@ -13,6 +13,8 @@ public class Principal {
 
 	public static void main(String[] args) {
 		int numero = 0;
+		String nombre;
+		float num2;
 		//Pone Look and Feel del sistema operativo (Apariencia de las ventanas y elementos
 		try{
 			JFrame.setDefaultLookAndFeelDecorated(true);
