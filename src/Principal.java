@@ -15,6 +15,8 @@ public class Principal {
 		int numero = 0;
 		String nombre;
 		float num2;
+		//NUevo Cambio
+		int dato;
 		//Pone Look and Feel del sistema operativo (Apariencia de las ventanas y elementos
 		try{
 			JFrame.setDefaultLookAndFeelDecorated(true);
