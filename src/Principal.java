@@ -20,6 +20,7 @@ public class Principal {
 		String corre; //Corregido
 		//Nueva actualizazion
 		int nuevo;
+		String dato1;
 		//Pone Look and Feel del sistema operativo (Apariencia de las ventanas y elementos
 		try{
 			JFrame.setDefaultLookAndFeelDecorated(true);
