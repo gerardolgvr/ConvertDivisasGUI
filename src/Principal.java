@@ -18,6 +18,8 @@ public class Principal {
 		//Nuevo Cambio rama Texto
 		String texto;
 		String corre; //Corregido
+		//Nueva actualizazion
+		int nuevo;
 		//Pone Look and Feel del sistema operativo (Apariencia de las ventanas y elementos
 		try{
 			JFrame.setDefaultLookAndFeelDecorated(true);
